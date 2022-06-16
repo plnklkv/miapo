@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miapo", "miapo\miapo.csproj", "{8EE0722F-7601-4BB9-8C50-B9A8CD4AF995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE0722F-7601-4BB9-8C50-B9A8CD4AF995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE0722F-7601-4BB9-8C50-B9A8CD4AF995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE0722F-7601-4BB9-8C50-B9A8CD4AF995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE0722F-7601-4BB9-8C50-B9A8CD4AF995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A7A0E1-932E-4C27-A919-567C57D1A224}
+	EndGlobalSection
+EndGlobal
